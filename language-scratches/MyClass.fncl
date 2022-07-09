@@ -1,0 +1,4 @@
+fncl MyClass() {
+    public myValue = 1
+    return self
+}

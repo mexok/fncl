@@ -1,0 +1,4 @@
+from MyClass import MyClass
+
+myClass = MyClass()
+print myClass.myValue

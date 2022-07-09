@@ -1,0 +1,6 @@
+fncl MySubclass() extends MyClass {
+    super()
+
+    public myValue2 = 'hi'
+    return self
+}
